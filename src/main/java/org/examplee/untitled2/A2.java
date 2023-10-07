@@ -3,7 +3,7 @@ package org.examplee.untitled2;
 import listeners.jumpHelloListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Untitled2 extends JavaPlugin {
+public final class A2 extends JavaPlugin {
 
     @Override
     public void onEnable() {
