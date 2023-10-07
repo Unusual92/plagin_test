@@ -1,0 +1,4 @@
+name: My_server
+version: '${version}'
+main: e.My_server
+api-version: '1.19'
