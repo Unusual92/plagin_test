@@ -5,10 +5,10 @@ import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 
-public class jump_hello_listener implements Listener {
+public class JumpHelloListener implements Listener {
 
     @EventHandler
-    public void jump_hello_listener(PlayerJumpEvent event) {
+    public void JumpHelloListener(PlayerJumpEvent event) {
         Player player = event.getPlayer();
 
         player.sendMessage("Hello");
