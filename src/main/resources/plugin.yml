@@ -1,0 +1,4 @@
+name: ex2c
+version: '${version}'
+main: e.my_server.ex2c.Ex2c
+api-version: '1.19'
