@@ -1,6 +1,7 @@
 package e.my_server.food;
 
 import co.aikar.commands.BukkitCommandManager;
+import e.my_server.food.listeners.FoodConfig;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Food extends JavaPlugin {
