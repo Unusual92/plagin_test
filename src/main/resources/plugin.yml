@@ -1,0 +1,4 @@
+name: Food
+version: '${version}'
+main: e.my_server.food.Food
+api-version: '1.19'
