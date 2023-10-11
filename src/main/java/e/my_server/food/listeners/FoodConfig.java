@@ -36,3 +36,4 @@ public class FoodConfig extends BaseCommand {
         }
     }
 }
+
