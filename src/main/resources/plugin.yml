@@ -1,0 +1,4 @@
+name: SuperBow
+version: '${version}'
+main: e.my_server.superbow.SuperBow
+api-version: '1.19'
